@@ -686,6 +686,13 @@ footer {
 .menu-content p {
     font-size: 1em;
 }
+.carousel-image img{
+    height:auto;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+ }
 .main-gallery{
     text-align:center;
     
